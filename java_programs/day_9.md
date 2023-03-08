@@ -95,11 +95,10 @@ class CalculatorApp {
 
 ```
 
-```cmd
-Enter first number:
-11
-Enter second number:
-22
+```bash
+Enter first number: 11
+Enter second number: 22
+
 The addition of two numbers is: 33.0
 The subtraction of two numbers is: -11.0
 The division of two numbers is: 0.5
