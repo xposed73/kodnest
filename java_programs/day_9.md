@@ -67,3 +67,26 @@ class Calculator {
 }
 ```
 
+### CalculatorApp.class
+```java
+class CalculatorApp {
+
+	public static void main (String args[]){
+	
+	  Calculator cal = new Calculator();
+	  Scanner sc = new Scanner(System.in);
+	  
+	  System.out.println("Enter first number: ");
+	  cal.a = sc.nectInt();
+	  
+	  System.out.println("Enter second number: ");
+	  cal.b = sc.nectInt();
+	  
+	  cal.add();
+	  cal.sub();
+	  cal.div();
+	  cal.mul();
+	  
+	
+	}
+
