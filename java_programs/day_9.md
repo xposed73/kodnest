@@ -94,7 +94,7 @@ class CalculatorApp {
 }
 
 ```
-### Output...
+### Output ...
 ```bash
 Enter first number: 11
 Enter second number: 22
