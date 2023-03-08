@@ -42,26 +42,26 @@ char g = sc.next().charAt(0); //To take input as character
 ```java
 class Calculator {
 
-	int a, b, result;
+      float a, b, result;
 	
 	void add(){
 	    result = a + b;
-	    System.out.println("The addition of two numbers is: "result);
+	    System.out.println("The addition of two numbers is: "+result);
 	}
 	
 	void sub(){
 	    result = a - b;
-	    System.out.println("The subtraction of two numbers is: "result);
+	    System.out.println("The subtraction of two numbers is: "+result);
 	}
 	
 	void mul(){
 	    result = a * b;
-	    System.out.println("The multiplication of two numbers is: "result);
+	    System.out.println("The multiplication of two numbers is: "+result);
 	}
 	
 	void div(){
 	    result = a / b;
-	    System.out.println("The division of two numbers is: "result);
+	    System.out.println("The division of two numbers is: "+result);
 	}
 
 }
@@ -78,10 +78,10 @@ class CalculatorApp {
 	  Scanner sc = new Scanner(System.in);
 	  
 	  System.out.println("Enter first number: ");
-	  cal.a = sc.nectInt();
+	  cal.a = sc.nextFloat();
 	  
 	  System.out.println("Enter second number: ");
-	  cal.b = sc.nectInt();
+	  cal.b = sc.nextFloat();
 	  
 	  cal.add();
 	  cal.sub();
