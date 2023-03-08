@@ -15,7 +15,7 @@ class Program {
 }
 ```
 
-### Program for Increment
+### Program for Incrementation
 ```java
 class Program {
 
@@ -32,7 +32,7 @@ class Program {
 }
 ```
 
-### Program for Decrement
+### Program for Decrementation
 ```java
 class Program {
 
