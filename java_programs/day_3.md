@@ -23,7 +23,8 @@ Student s1 = new Student();
 s1.study(); //Prints "Student is studying..."
 ```
 
-
+#
+#
 ## EXTENDED EXAMPLE
 
 ### Class Laptop.java
