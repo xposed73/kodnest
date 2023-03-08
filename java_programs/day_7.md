@@ -12,10 +12,10 @@ class Program {
 
   public static void main (String args[]){
   
-    byte a = 44; //Decimal
-    byte b = 044; //Octal
-    byte c = 0x44; //Hexadecimal
-    byte d = 0b00110101; //Binary
+    byte a = 44; //Decimal (Prints "44")
+    byte b = 044; //Octal (Prints "36")
+    byte c = 0x44; //Hexadecimal (Prints "68")
+    byte d = 0b00110101; //Binary (Prints "53")
   
   }
 
