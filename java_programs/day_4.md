@@ -39,6 +39,10 @@ class MyCalculator {
   public static void main (String args[]){
   
   Calculator c1 = new Calculator();
+  c1.add(); // Prints "The addition of two numbers is: 15"
+  c1.sub(); // Prints "The subtraction of two numbers is: 5"
+  c1.mul(); // Prints "The multliplication of two numbers is: 50"
+  c1.div(); // Prints "The division of two numbers is: 2"
   
   }
   
