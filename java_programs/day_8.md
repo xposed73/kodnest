@@ -35,3 +35,40 @@ class ProgramImplicitTypecasting{
 
 }
 ```
+
+### Program1 for explicit typecasting
+```java
+class ProgramExplicitTypecasting{
+
+  public static void main (String args[]){
+    
+    int a = 56;
+    short b;
+    
+    //b = a; (Thros error)
+    b = (short)a;
+    System.out.println(a); // Prints "56"
+    System.out.println(b); // Prints "56"
+    
+  }
+
+}
+```
+### Program2 for explicit typecasting
+```java
+class ProgramExplicitTypecasting{
+
+  public static void main (String args[]){
+    
+    double a = 49.72;
+    int b;
+    
+    //b = a; (Thros error)
+    b = (int)a;
+    System.out.println(a); // Prints "49.72"
+    System.out.println(b); // Prints "49" (Here we can see, data loss has happend)
+    
+  }
+
+}
+```
