@@ -49,7 +49,7 @@ class Program {
 }
 ```
 
-### Extended example
+### Extended example (Post-incrementation/decrementation & Pre-incrementation/decrementation)
 ```java
 class Program {
 
