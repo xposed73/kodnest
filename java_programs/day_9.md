@@ -20,3 +20,13 @@ class Program {
 
 }
 ```
+
+```java
+Scanner sc = new Scanner(System.in);
+
+byte a = sc.nextByte(); //To take input as byte
+short b = sc.nextShort(); //To take input as short
+int c = sc.nextInt(); //To take input as int
+long d = sc.nextLong(); //To take input as long
+float e = sc.nextFloat(); //To take input as float
+```
