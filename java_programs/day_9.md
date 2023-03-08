@@ -1,4 +1,4 @@
-# 
+# Usage of Scanner utility in Java
 ### Write a java program to find square of a number by taking the input from user.
 
 ```java
