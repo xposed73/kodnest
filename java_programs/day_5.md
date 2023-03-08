@@ -37,9 +37,11 @@ class Program {
 
   public ststic void main (String args[]){
   
+    //usage of float
     float percentage = 98.75F;
     System.out.println("The percentage os student is: " + percentage);
     
+    //usage of double
     double pi = 3.1428571428571;
     System.out.println("The value of pi is: " + pi);
   
