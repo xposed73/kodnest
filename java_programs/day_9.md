@@ -21,6 +21,7 @@ class Program {
 }
 ```
 
+### Scanner usage for other data types
 ```java
 Scanner sc = new Scanner(System.in);
 
