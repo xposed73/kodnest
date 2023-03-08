@@ -69,6 +69,7 @@ class Calculator {
 
 ### CalculatorApp.class
 ```java
+import java.util.Scanner;
 class CalculatorApp {
 
 	public static void main (String args[]){
