@@ -50,5 +50,23 @@ class Program {
 }
 ```
 
-### Write a java program to demonstrate the use of character(char). 
+### Write a java program to demonstrate the use of character (char). 
 Note: in JAVA, the char is stored in single quotes 'X'
+
+```java
+class Program {
+
+  public static void main (String args[]){
+  
+    char a = '3';
+    char b = 'X'
+    
+    System.out.println(a);
+    System.out.println(b);
+    
+    // char c = 'XP' (Throws error, since more than one character is not allowed)
+  
+  }
+
+}
+```
