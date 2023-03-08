@@ -81,3 +81,8 @@ class MyLaptop{
 
 }
 ```
+
+### Anonumous Objects in Java
+```java
+(new Laptop()).switchOn();
+```
