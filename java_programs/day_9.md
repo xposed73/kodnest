@@ -29,4 +29,8 @@ short b = sc.nextShort(); //To take input as short
 int c = sc.nextInt(); //To take input as int
 long d = sc.nextLong(); //To take input as long
 float e = sc.nextFloat(); //To take input as float
+
+String f = sc.nextLine(); //To take input as string
+char g = sc.next().charAt(0); //To take input as character
+ 
 ```
