@@ -45,7 +45,7 @@ class ProgramExplicitTypecasting{
     int a = 56;
     short b;
     
-    //b = a; (Thros error)
+    //b = a; (Throws error)
     b = (short)a;
     System.out.println(a); // Prints "56"
     System.out.println(b); // Prints "56"
@@ -63,7 +63,7 @@ class ProgramExplicitTypecasting{
     double a = 49.72;
     int b;
     
-    //b = a; (Thros error)
+    //b = a; (Throws error)
     b = (int)a;
     System.out.println(a); // Prints "49.72"
     System.out.println(b); // Prints "49" (Here we can see, data loss has happend)
