@@ -31,7 +31,7 @@ class ProgramImplicitTypecasting{
     System.out.println(a); // Prints "73"
     System.out.println(b); // Prints "73.0"
     
-  }
+  } 
 
 }
 ```
@@ -72,3 +72,6 @@ class ProgramExplicitTypecasting{
 
 }
 ```
+
+## Extended example
+### Write a java program to calculate the area of a square.
