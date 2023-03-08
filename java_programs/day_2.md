@@ -14,3 +14,54 @@ class Program {
 
 }
 ```
+
+### Program for Increment
+```java
+class Program {
+
+  public static void main (String args[]){
+  
+    int a = 5;   
+    System.out.println(a); //5
+
+    ++a;
+    System.out.println(a); //6
+  
+  }
+
+}
+```
+
+### Program for Decrement
+```java
+class Program {
+
+  public static void main (String args[]){
+  
+    int a = 5;   
+    System.out.println(a); //5
+
+    --a;
+    System.out.println(a); //4
+  
+  }
+
+}
+```
+
+### Extended example
+```java
+class Program {
+
+  public static void main (String args[]){
+  
+    int a = 5;   
+    System.out.println(a); //Prints 5
+    
+    int b = ++a + ++a + a++ + --a + a-- + ++a + a--;
+    System.out.println(b); //Prints 48
+   
+  }
+
+}
+```
