@@ -22,6 +22,8 @@ class Student {
 Student s1 = new Student();
 s1.study(); //Prints "Student is studying..."
 ```
+
+
 ## EXTENDED EXAMPLE
 
 ### Class Laptop.java
@@ -47,6 +49,7 @@ class Laptop {
 }
 ```
 ### Class MyLaptop.java
+```java
 class MyLaptop{
      
      public ststic void main (String args[]){
@@ -76,3 +79,4 @@ class MyLaptop{
      }
 
 }
+```
