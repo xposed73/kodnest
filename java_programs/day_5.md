@@ -35,7 +35,7 @@ class Program {
 ```java
 class Program {
 
-  public ststic void main (String args[]){
+  public static void main (String args[]){
   
     //usage of float
     float percentage = 98.75F;
