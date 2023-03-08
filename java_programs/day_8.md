@@ -90,3 +90,20 @@ class Program {
 
 }
 ```
+
+### Write a java program to calculate the area of a circle.
+```java
+class Program {
+
+  public static void main (String args[]){
+  
+    float radius = 20F;
+    float pi = 3.141592653589793238F;
+    float result = 2*pi*radius;
+    
+    System.out.println("The area of circle is: " + result);
+  
+  }
+
+}
+```
