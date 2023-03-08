@@ -32,3 +32,18 @@ class Program {
 ```
 
 ### Write a java program to demonstrate the use of real number type data by storing the percentage od a student and value of π, also display the data.
+```java
+class Program {
+
+  public ststic void main (String args[]){
+  
+    float percentage = 98.75F;
+    System.out.println("The percentage os student is: " + percentage);
+    
+    double pi = 3.1428571428571;
+    System.out.println("The value of pi is: " + pi);
+  
+  }
+
+}
+```
