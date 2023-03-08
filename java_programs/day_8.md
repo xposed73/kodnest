@@ -84,7 +84,7 @@ class Program {
     float width = 10F;
     float result = width * width;
     
-    System.out.println("The area of square is: " + result);
+    System.out.println("The area of square is: " + result); // The area of square is: 100.0
   
   }
 
