@@ -50,4 +50,5 @@ class Program {
 }
 ```
 
-### Write a java program to demonstrate the use of character(char). [in JAVA, the char is stored in single quotes 'X']
+### Write a java program to demonstrate the use of character(char). 
+Note: in JAVA, the char is stored in single quotes 'X'
