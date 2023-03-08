@@ -7,31 +7,30 @@ class Calculator {
   int a = 10;
   int b = 5;
   int result;
-  
-void add(){
-  result = a + b;
-  System.out.println("The addition of two numbers is: " + result)
 
-}
+  void add() {
+    result = a + b;
+    System.out.println("The addition of two numbers is: " + result)
 
-void sub(){
-  result = a - b;
-  System.out.println("The subtraction of two numbers is: " + result)
+  }
 
-}
+  void sub() {
+    result = a - b;
+    System.out.println("The subtraction of two numbers is: " + result)
 
-void mul(){
-  result = a * b;
-  System.out.println("The multiplication of two numbers is: " + result)
+  }
 
-}
+  void mul() {
+    result = a * b;
+    System.out.println("The multiplication of two numbers is: " + result)
 
-void div(){
-  result = a / b;
-  System.out.println("The division of two numbers is: " + result)
+  }
 
-}
+  void div() {
+    result = a / b;
+    System.out.println("The division of two numbers is: " + result)
 
+  }
 
 }
 ```
