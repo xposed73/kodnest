@@ -64,7 +64,7 @@ class Program {
     System.out.println(a);
     System.out.println(b);
     
-    // char c = 'XP' (Throws error, since more than one character is not allowed)
+    // char c = 'XP'; (Throws error, since more than one character is not allowed)
   
   }
 
