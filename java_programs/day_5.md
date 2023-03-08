@@ -30,3 +30,5 @@ class Program {
 
 }
 ```
+
+### Write a java program to demonstrate the use of real number type data by storing the percentage od a student and value of π, also display the data.
