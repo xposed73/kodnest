@@ -99,7 +99,7 @@ class Program {
   
     float radius = 20F;
     float pi = 3.141592653589793238F;
-    float result = 2 * pi * radius;
+    float result = pi * (radius * radius);
     
     System.out.println("The area of circle is: " + result);
   
