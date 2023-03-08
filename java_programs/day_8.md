@@ -75,3 +75,18 @@ class ProgramExplicitTypecasting{
 
 ## Extended example
 ### Write a java program to calculate the area of a square.
+
+```java
+class Program {
+
+  public static void main (String args[]){
+  
+    float width = 10F;
+    float result = width * width;
+    
+    System.out.println("The area of square is: " + result);
+  
+  }
+
+}
+```
