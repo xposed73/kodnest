@@ -9,7 +9,8 @@ class Program {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter your first name ");
 		
-		String name = sc.next();
+		String name = sc.next(); // Single word without spaces
+  //String name = sc.nextLine(); // Full sentence with spaces
 		System.out.println("The name of user is: " + name);
 		
 	}
