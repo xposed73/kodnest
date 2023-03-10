@@ -12,7 +12,7 @@ class Program {
 }
 ```
 
-
+```xml
 <com.airbnb.lottie.LottieAnimationView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -21,3 +21,4 @@ class Program {
             app:lottie_autoPlay="true"
             app:lottie_loop="true"/>
 
+```
