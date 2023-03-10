@@ -1,4 +1,4 @@
-### Structure of a java program
+# Structure of a java program
 
 ```java
 class Program {
